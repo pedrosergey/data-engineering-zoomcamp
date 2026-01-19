@@ -1,7 +1,7 @@
 # Data Engineering Zoomcamp 🚀
 *5th Edition*
 
-This repo is my personal playground for the Data Engineering Zoomcamp by DataTalks.Club and Alexei — a hands-on course that teaches modern data engineering practices, from data ingestion to analytics and orchestration.
+This repo is my personal playground for the Data Engineering Zoomcamp by DataTalks.Club — a hands-on course that teaches modern data engineering practices, from data ingestion to analytics and orchestration.
 
 As a data analyst / data engineer, I'm taking this zoomcamp to level up my skills, build production-ready data pipelines, and master the essential tools of the data engineering ecosystem. Expect notes, projects, experiments, and code that help me put concepts into practice.
 
