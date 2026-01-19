@@ -1,1 +1,24 @@
-# data-engineering-zoomcamp
+# Data Engineering Zoomcamp 🚀
+*5th Edition*
+
+This repo is my personal playground for the Data Engineering Zoomcamp by DataTalks.Club and Alexei — a hands-on course that teaches modern data engineering practices, from data ingestion to analytics and orchestration.
+
+As a data analyst / data engineer, I'm taking this zoomcamp to level up my skills, build production-ready data pipelines, and master the essential tools of the data engineering ecosystem. Expect notes, projects, experiments, and code that help me put concepts into practice.
+
+## What you'll find here
+- 📊 Hands-on projects and homework assignments from the course
+- 🛠️ Practical examples covering data ingestion, transformation, warehousing, and analytics engineering
+- 🐍 Code for working with tools like Docker, SQL, Terraform, dbt, Spark, and more
+- 📚 Personal notes, tips, and things I want to revisit later
+
+## Why I'm doing this
+I want to build robust, scalable data pipelines and deepen my understanding of the modern data stack — from ingestion to visualization. This repo documents the journey and makes it easy to track progress and reproduce the experiments.
+
+## Thanks
+Big thanks to the DataTalks.Club team and Alexei for creating this amazing free course and providing excellent materials — this repo builds on their work and is inspired by their teaching. 🙏
+
+📖 [Original course repo](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+
+---
+
+If you want to follow along or try anything from this repo, feel free to open issues, suggest improvements, or send tips — let's learn and build together! 💪✨
