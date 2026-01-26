@@ -1,6 +1,9 @@
 # Personal notes
 notes.md
 
+# Terraform sensitive files
+**/variables.tf
+
 # Jupyter Notebook
 .ipynb_checkpoints/
 *.ipynb_checkpoints
@@ -35,3 +38,57 @@ uv.lock
 # OS
 .DS_Store
 Thumbs.db
+
+# OSX leaves these everywhere on SMB shares
+._*
+
+# OSX trash
+.DS_Store
+
+# Python
+*.pyc
+
+# Emacs save files
+*~
+\#*\#
+.\#*
+
+# Vim-related files
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Kitchen files
+**/inspec.lock
+**/.kitchen
+**/kitchen.local.yml
+**/Gemfile.lock
+
+# Ignore any .tfvars files that are generated automatically for each Terraform run. Most
+# .tfvars files are managed as part of configuration and so should be included in
+# version control.
+**/*.tfvars
+
+google-cloud-sdk/
+google-cloud-sdk.staging/
+my_creds.json
+tmp
+
+# Ignore cache directory
+cache/*
+!cache/README.md
+
+# tf lock file
+.terraform.lock.hcl
