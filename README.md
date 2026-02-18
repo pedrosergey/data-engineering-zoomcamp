@@ -18,6 +18,17 @@ Learn the fundamentals of modern infrastructure management:
 
 **Key technologies**: Docker, Docker Compose, PostgreSQL, Terraform, GCP, BigQuery
 
+### [Module 2: Workflow Orchestration](02-workflow-orchestration/)
+**Pipeline orchestration with modern workflow tools**
+
+Build and orchestrate end-to-end data workflows:
+- 🔄 **Orchestration**: Define and run scheduled workflows with Kestra
+- 🐳 **Containers**: Run orchestration services and dependencies with Docker Compose
+- 🗄️ **Data services**: Connect orchestrated jobs to PostgreSQL and supporting services
+- 🔐 **Configuration**: Manage environment variables and service credentials for local development
+
+**Key technologies**: Kestra, Docker Compose, PostgreSQL, Python, SQL
+
 ---
 
 ## What you'll find here

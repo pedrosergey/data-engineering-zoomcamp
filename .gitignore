@@ -85,6 +85,8 @@ google-cloud-sdk/
 google-cloud-sdk.staging/
 my_creds.json
 tmp
+.env_encoded
+service-account.json
 
 # Ignore cache directory
 cache/*
@@ -92,3 +94,21 @@ cache/*
 
 # tf lock file
 .terraform.lock.hcl
+
+# Logs and runtime artifacts
+*.log
+*.pid
+
+# Python tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Env and local secret files
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.template
+**/service-account.json
+**/my_creds.json
+
